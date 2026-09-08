@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="BrokerGateway.Api\BrokerGateway.Api.csproj" />
+    <Project Path="BrokerGateway.Application/BrokerGateway.Application.csproj" />
+    <Project Path="BrokerGateway.Domain/BrokerGateway.Domain.csproj" />
+    <Project Path="BrokerGateway.Infrastructure/BrokerGateway.Infrastructure.csproj" />
+    <Project Path="SharedKernel/SharedKernel.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
